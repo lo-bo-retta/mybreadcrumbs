@@ -1,0 +1,137 @@
+{
+  "writers": {
+    "book": [
+      {
+        "title": "Tu che mi guardi, tu che mi racconti",
+        "author": "Adriana Cavarero",
+        "quote": "Si tratta di un sé […] a cui è sempre necessario l’altro. Non però un altro come categoria generale, bensì un altro o un’altra che sono sempre qualcuno, altrettanti sé, unici e irripetibili, in carne e ossa, presenti qui e ora"
+      },
+      {
+        "title": "Logica del senso",
+        "author": "Gilles Deleuze",
+        "quote": "E se non vi è nulla da vedere dietro il sipario è perché tutto il visibile, o piuttosto tutta la scienza possibile, si trova lungo il sipario […] è sufficiente seguirlo abbastanza lontano e abbastanza rasente, abbastanza superficialmente, per rovesciare il diritto, per far si che la destra diventi sinistra e viceversa"
+      },
+      {
+        "title": "L’ordine simbolico della madre",
+        "author": "Luisa Muraro",
+        "quote": "Il luogo o il mezzo comune dello scambio linguistico non è riducibile a una convenzione fra parlanti; […] quel luogo o mezzo è vincolante per essi accomunati dall’accettare la normatività della lingua più che dal conoscere l’esatto significato delle parole […] La normatività della lingua si esercita non come legge ma come ordine vivente"
+      },
+      {
+        "title": "Babel-17",
+        "author": "Samuel Delany",
+        "quote": "Un singolo, una cosa distaccata dal proprio ambiente e da tutte le altre cose in quell’ambiente; il singolo era il tipo di cosa per la quale i simboli si erano rivelati inadeguati, e così erano stati inventati i nomi. «Io sono inventata»"
+      },
+      {
+        "title": "La volontà di sapere",
+        "author": "Michel Foucault",
+        "quote": "Il potere è dappertutto; […] il potere non è una istituzione, e non è una struttura, non è una certa potenza di cui certi sarebbero dotati: è il nome che si dà ad una certa situazione strategica complessa in una società data"
+      },
+      {
+        "title": "Scambi di genere. Identità, sesso e desiderio",
+        "author": "Judith Buttler",
+        "quote": "Parole, atti, gesti e desiderio producono l’effetto di un nucleo centrale interno o sostanza, ma lo producono sulla superficie corporea, attraverso il gioco di assenze significative che suggeriscono come propria causa, senza mai rivelarlo, il principio di organizzazione dell’identità"
+      },
+      {
+        "title": "Problemi di linguistica generale",
+        "author": "Emile Benveniste",
+        "quote": "“Io” può essere definito solo in termini di «parlare» e non in termini di oggetti, come lo è invece un segno nominale […] “Io” non può essere identificato che dalla situazione di un discorso che lo contiene […] queste forme «pronominali» non rimandano né alla «realtà» né a posizioni «oggettive», ma all’enunciazione, ogni volta unica"
+      },
+      {
+        "title": "Vita activa",
+        "author": "Hannah Arendt",
+        "quote": "Discorso e azione sono le modalità in cui gli esseri umani appaiono gli uni agli altri non come oggetti fisici, ma in quanto esseri umani […] Con la parola e con l’agire ci inseriamo nel mondo umano, e questo inserimento è come una seconda nascita, in cui confermiamo e ci sobbarchiamo la nuda realtà della nostra apparenza fisica originale"
+      },
+      {
+        "title": "My Mother Was a Computer",
+        "author": "Katherine Hayles",
+        "quote": "I differenti livelli di codice sono costituiti da catene interconnesse di significanti e significati in cui il significante di un livello diventa significato per l’altro"
+      },
+      {
+        "title": "A più voci",
+        "author": "Adriana Cavarero",
+        "quote": "Eco è la figura del godimento nella ripetizione vocalica che sottraendosi al registro semantico segue spontaneamente il ritmo relazionale della ripetizione. Tale ritmo conferma che ogni voce essendo per l’orecchio, comporta al tempo stesso un orecchio che è per la voce"
+      },
+      {
+        "title": "Memorie di una sopravviccuta",
+        "author": "Doris Lessing",
+        "quote": "La gente fa di tutto per adeguarsi a una “vita normale”. Proprio in questo consisteva il particolare clima di allora; gli aspetti più bizzarri e frenetici, orrendi, minacciosi, l’atmosfera da assedio o di guerra… si combinavano con quelli più consueti, abitudinari, addirittura decorosi"
+      },
+      {
+        "title": "Manifesto Cyborg",
+        "author": "Donna Haraway",
+        "quote": "Essere l’Uno significa essere autonomo, essere potente, essere Dio, ma significa anche essere un’illusione e quindi essere intrecciato all’altro in una dialettica apocalittica. Ma essere l’altro significa essere multiplo, senza confini precisi, logorato, inconsistente. Uno è troppo poco, ma due sono troppi"
+      },
+      {
+        "title": "Il corpo come somma di dati", 
+        "author": "Antonio Caronia",
+        "quote": "Per produrre i suoi effetti tranquillizzanti e soporiferi sulla coscienza, la tecnologia ha bisogno di operare in condizioni di ripetitiva monotonia. Solo a questa condizione la radicalità della carne e l’eversività della tecnologia digitale non si incontreranno e il corpo potrà continuare a funzionare come luogo di riproduzione della normalità sociale"
+      },
+      {
+        "title": "Manifesto Cyborg",
+        "author": "Donna Haraway",
+        "quote": "Un mondo cyborg potrebbe comportare il vivere realtà sociali e corporee in cui le persone non temono la loro parentela con macchine e animali insieme, né identità sempre parziali e punti di vista contraddittori"
+      },
+      {
+        "title": "La mano sinistra delle tenebre",
+        "author": "Ursula Le Guin",
+        "quote": "La luce è la mano sinistra delle tenebre<br>E le tenebre la mano destra della luce<br>Due sono uno, vita e morte,<br> e giacciono insieme come amanti in kemmer,<br>come mani giunte<br>come la meta e la via"
+      },
+      {
+        "title": "Meditazioni sull’obbedienza e la libertà",
+        "author": "Simone Weil",
+        "quote": "Colui che obbedisce, colui i cui movimenti, le cui sofferenze, i cui piaceri, sono determinati dalla parola altrui si sente inferiore non per caso ma per natura. Sembra, a tutti quelli che obbediscono, che un’inferiorità misteriosa li abbia predestinati a obbedire per l’eternità"
+      },
+      {
+        "title": "My Mother Was a Computer",
+        "author": "Katherine Hayles",
+        "quote": "Sia la creazione di molteplici soggettività che la riconfigurazione della coscienza in relazione al corpo sono profondamente legate alle dinamiche di intermediazione del significato fluttuante, che si costituisce attraverso le connessioni che si trasformano fluidamente tra scrittore, interfaccia e utente"
+      },
+      {
+        "title": "My Mother Was a Computer",
+        "author": "Katherine Hayles",
+        "quote": "La computazione richiede solo una elementare distinzione fra qualcosa e il nulla (uno e zero) e un piccolo insieme di operazioni logiche. […] Il Regime della Computazione non fornisce alcun fondamento per la verità, ma neppure né richiede alcuno, tranne che le assunzioni ontologiche minimali necessarie per far girare il sistema"
+      },
+      {
+        "title": "L’Illiade o il poema della forza",
+        "author": "Simone Weil",
+        "quote": "La forza annienta tanto impietosamente, quanto impietosamente inebria chiunque la possiede o crede di possederla. Nessuno la possiede veramente. […] Il forte non è mai forte in assoluto, né il debole è debole in assoluto, l'uno e l'altro però lo ignorano. […] Forti del loro potere, non dubitano mai che le conseguenze dei loro atti li obbligheranno a loro volta a piegarsi"
+      },
+      {
+        "title": "Voices from the Uncanny Valley, How Robots and Artificial Intelligences Talk Back to Us",
+        "author": "Tiina Männistö-Funk, Tanja Sihvonen",
+        "quote": "...l’osservazione di un fenomeno richiede un taglio agenziale che forzi una differenza ontologica. L’osservatore e l’osservato sono intrecciati, finché l'atto di osservazione non li costringe a separarsi e a dare loro forma come «soggetto» e «oggetto». Questo approccio performativo segna la costruzione del confine tra umano e non umano"
+      },
+      {
+        "title": "L’impensato",
+        "author": "Katherine Hayles",
+        "quote": "Qualsiasi possa essere la nostra posizione sul concetto di intelligenza (antropocentrico o meno), le piante sono in grado di esplorare una vasta gamma di informazioni dall’ambiente che le circonda e di rispondere alle sfide che gli si presentano in modi notevolmente vari e complessi"
+      },
+      {
+        "title": "Transcoding the digital",
+        "author": "Marianne van den Boomen",
+        "quote": "È arbitrario a quale livello si collochi l’interfaccia utente, poiché a ogni livello si può consentire un accesso agli esseri umani. La definizione di un livello user-friendly è una scelta politica del design"
+      },
+      {
+        "title": "Transcoding the digital",
+        "author": "Marianne van den Boomen",
+        "quote": "Le metafore materiali sono chiavi per le scatole nere dei software e delle macchine. Sono capaci di chiudere e nascondere, ma anche in grado di aprire la scatola e rivelare il suo interno"
+      },
+      {
+        "title": "Alice nel paese delle meraviglie",
+        "author": "Lewis Carroll",
+        "quote": "«Puoi dirmi, per favore, da che parte posso andarmene da qui?»<br>  «Tutto dipende da dove vuoi andare.»<br> «Non mi importa molto dove.»<br> «Allora non importa da che parte vai.»<br> «Purché arrivi da qualche parte.»<br> «Oh, là ci arriverai di certo, se cammini abbastanza»"
+      },
+      {
+        "title": "Alice attraverso lo specchio",
+        "author": "Lewis Carroll",
+        "quote": "Se un senso non c’è, questo ci evita un sacco di guai, perché non dobbiamo cercare di trovarlo"
+      },
+      {
+        "title": "Speculum",
+        "author": "Luce Irigaray",
+        "quote": "La ricerca di un’identità a sé che duri perpetua, paralizza ogni contatto, blocca ogni penetrazione per timore di non trovarsi ancora lo stesso. Contatti ridotti in metafore con termini che li avvolgono, li ricoprono, li spostano sempre più lontano da ciò che li “causa” […] Per ottenere l’identità della ragione con se stessa, la semplice ricorrenza del medesimo, l'enumerazione"
+      }
+
+    ]
+  }
+}
