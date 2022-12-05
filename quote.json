@@ -62,7 +62,7 @@
         "quote": "Essere l’Uno significa essere autonomo, essere potente, essere Dio, ma significa anche essere un’illusione e quindi essere intrecciato all’altro in una dialettica apocalittica. Ma essere l’altro significa essere multiplo, senza confini precisi, logorato, inconsistente. Uno è troppo poco, ma due sono troppi"
       },
       {
-        "title": "Il corpo come somma di dati",
+        "title": "Il corpo come somma di dati", 
         "author": "Antonio Caronia",
         "quote": "Per produrre i suoi effetti tranquillizzanti e soporiferi sulla coscienza, la tecnologia ha bisogno di operare in condizioni di ripetitiva monotonia. Solo a questa condizione la radicalità della carne e l’eversività della tecnologia digitale non si incontreranno e il corpo potrà continuare a funzionare come luogo di riproduzione della normalità sociale"
       },
@@ -135,11 +135,14 @@
         "title": "Una stanza tutta per sè",
         "author": "Virginia Wolf",
         "quote": "Un’ombra sembrava distendersi sulla pagina. Era una sbarra dritta e scura, un’ombra dalla forma simile alla parola “Io”. Bisognava spostarsi di qua e di là per riuscire a intravvedere il paesaggio dietro di essa […] si ritornava sempre alla parola “Io”. Ci si cominciava a stancare dell’“Io” […] la cosa peggiore è che nell’ombra della parola “Io” tutto è informe come la nebbia"
+<<<<<<< HEAD
       },
       {
         "title": "Il capitale è morto, il peggio deve ancora arrivare",
         "author": "Wark Mckenzie",
-        "quote": "Quella che chiamerei cultura vettoriale incoraggia tutti a immaginare di essere imprenditori di se stessi […] L’aspirazione è diventare proprietari di un brand, a partire dal proprio, da se stessi come brand […] Non essere all’altezza del proprio brand ha conseguenze che si spiegano con linguaggi medici, terapeutici o “spirituali”"
+        "quote": "Quella che chiamerei cultura vettoriale incoraggia tutti a immaginare di essere imprenditori di se stessi […] L’aspirazione è diventare proprietari di un brand, a partire dal proprio, da se stessi come brand […] Non essere all’altezza del proprio brand ha conseguenze che si spiegano con linguaggi medici, terapeutici o “spirituali” "
+=======
+>>>>>>> parent of c2b4a0e (Update quote.json)
       }
 
     ]
